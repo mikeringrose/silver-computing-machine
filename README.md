@@ -1,3 +1,3 @@
 # silver-computing-machine
 
-![](http://jgraph.github.io/drawio-github/edit-diagram.html?repo=drawio-github&path=ashtml.drawio.html)
+![Self-editing Diagram](https://github.com/mikeringrose/silver-computing-machine/blob/main/Untitled%20Diagram.drawio.svg)
